@@ -46,5 +46,5 @@ migrations:
 
 postgresql:
   auth:
-    postgresPassword: "<path:factory-x/data/portal/ssi-authority-schema-registry/postgres#postgres-password>"
-    password: "<path:factory-x/data/portal/ssi-authority-schema-registry/postgres#password>"
+    postgresPassword: "<path:factory-x/data/portal/ssi-authority-schema-registry#postgres-password>"
+    password: "<path:factory-x/data/portal/ssi-authority-schema-registry#password>"
